@@ -3,11 +3,11 @@
 
 | Authors      | E-mail | University |
 | ----------- | ----------- | ----------- |
-| Alper Büyükalaca    |   abuyukalaca@sabanciuniv.edu  |Sabancı University, Computer Science |
+| Alper Büyükalaca    |   abuyukalaca@sabanciuniv.edu  |Sabancı University, Computer Science & Psychology |
 | Eren Güngör	   |  erengungor@sabanciuniv.edu  | Sabancı University, Computer Science |
 | İdil Kapıkıran			   |  ikapikiran@sabanciuniv.edu  |Sabancı University, Computer Science |
 | İsmail Berat Düzenli  | iberat@sabanciuniv.edu  |Sabancı University, Computer Science |
-| Mert Ekici 		   |    ekicimert@sabanciuniv.edu  | Sabancı University, Computer Science & Economics|\
+| Mert Ekici 		   |    ekicimert@sabanciuniv.edu  | Sabancı University, Computer Science & Economics |\
 
 Supervisor:                 Öznur Taştan
 
